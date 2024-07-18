@@ -85,6 +85,8 @@ Capacitar a los desarrolladores en el uso efectivo del inglés en el contexto pr
 - Consciente de las diferencias culturales en la comunicación.
 - Adaptar el tono y el estilo en función del público.
 
+#### Practicar con tus compañeros
+- Ayuda a mejorar la simplificaciòn de oraciones
 
 ### 4. Ejercicios Prácticos 🛠️
 
