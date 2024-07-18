@@ -12,18 +12,13 @@ Capacitar a los desarrolladores en el uso efectivo del inglés en el contexto pr
 - **Continuous Integration (CI)**: La práctica de combinar el trabajo de todos los desarrolladores en una versión principal compartida varias veces al día para detectar problemas rápidamente.
 - **Continuous Delivery (CD)**: Un método en el que los equipos de desarrollo trabajan en ciclos cortos y pueden lanzar versiones del software de manera confiable en cualquier momento.
 - **Containerization**: Una técnica que empaqueta una aplicación y todas sus dependencias en una "caja" (contenedor) que se puede ejecutar en cualquier entorno.
-- **Orchestration**: La coordinación automática de tareas y servicios de software para que funcionen juntos de manera eficiente.
 - **Refactoring**: El proceso de mejorar el código existente sin cambiar lo que hace.
 - **Tech Debt**: El trabajo extra que se acumula cuando se elige una solución rápida y fácil en lugar de una solución mejor pero más lenta.
-- **Monolithic Architecture**: Una estructura de software donde todos los componentes están unidos en una sola gran aplicación.
 - **Serverless Computing**: Un modelo en la nube donde el proveedor se encarga de gestionar los servidores, permitiendo que los desarrolladores se centren en el código.
 - **Load Balancing**: El acto de distribuir el tráfico de red entre varios servidores para que ninguno se sobrecargue.
 - **Scalability**: La capacidad de un sistema para crecer y manejar más trabajo añadiendo recursos adicionales.
 - **Latency**: El tiempo de espera entre el momento en que se solicita algo y el momento en que se obtiene una respuesta.
-- **Throughput**: La cantidad de trabajo que un sistema puede manejar en un tiempo determinado.
-- **DevOps**: Un conjunto de prácticas que combinan el desarrollo de software y las operaciones de TI para acortar el tiempo de desarrollo y entregar software de alta calidad de manera continua.
 - **Agile Methodology**: Un enfoque de desarrollo que promueve la creación rápida y continua de software mediante ciclos cortos de trabajo.
-- **Kanban**: Un método visual para gestionar tareas y mejorar la eficiencia, utilizando tarjetas para representar el trabajo.
 - **Scrum**: Un marco ágil para gestionar proyectos, dividiendo el trabajo en pequeños ciclos llamados sprints.
 - **Regression Testing**: Pruebas realizadas para asegurarse de que el software que ya funcionaba bien sigue funcionando después de hacer cambios.
 
@@ -97,10 +92,36 @@ Capacitar a los desarrolladores en el uso efectivo del inglés en el contexto pr
 - **Role-playing**: Simular una conversación telefónica entre un desarrollador y un asegurado que presenta un reclamo médico.
 - **Definiciones**: Asociar términos de desarrollo de software con términos específicos de seguros en una actividad de coincidencia.
 
-#### Corrección de Errores 📝
-- **Identificar y corregir errores gramaticales** en las siguientes frases:
-  - **Incorrecto**: "The systems needs some fixes."
-    - **Correcto**: "The systems need some fixes."
-  - **Incorrecto**: "He insured the policy last week."
-    - **Correcto**: "He purchased the policy last week."
+### 5. Herramientas para Mejorar la Redacción en Inglés para Desarrolladores
+
+#### Extensiones de VS Code
+
+1. **Code Spell Checker**
+   - Detecta errores tipográficos en el código.
+   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+2. **LTeX - LanguageTool for VS Code**
+   - Proporciona correcciones gramaticales y de estilo usando LanguageTool.
+   - [LTeX - LanguageTool for VS Code](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
+
+3. **Write Good Linter**
+   - Analiza la calidad de tu escritura y sugiere mejoras.
+   - [Write Good Linter](https://marketplace.visualstudio.com/items?itemName=AdamCoulombe.write-good-linter)
+
+#### Aplicaciones Externas
+
+1. **Grammarly**
+   - Ofrece correcciones gramaticales, de estilo y sugerencias de vocabulario. Tiene extensiones para navegadores y una aplicación de escritorio.
+   - [Grammarly](https://www.grammarly.com/)
+
+2. **Elsa Speak**
+   - Es una aplicación divertida y atractiva especialmente diseñada para ayudar a mejorar las habilidades de comunicación en inglés.
+   - [Elsa Speak](https://elsaspeak.com/)
+   
+#### Recursos Adicionales
+
+1. **Deepl**
+   - Un traductor y corrector de escritura gratuito en línea que puede funcionar desde su propia página web o instalando el software que tiene para Windows 10 o macOS
+   - [Deepl]([https://quillbot.com/](https://www.deepl.com/es/write))
+
 
