@@ -88,10 +88,6 @@ Capacitar a los desarrolladores en el uso efectivo del inglés en el contexto pr
 
 ### 4. Ejercicios Prácticos 🛠️
 
-#### Vocabulario y Frases Clave 🔤
-- **Role-playing**: Simular una conversación telefónica entre un desarrollador y un asegurado que presenta un reclamo médico.
-- **Definiciones**: Asociar términos de desarrollo de software con términos específicos de seguros en una actividad de coincidencia.
-
 ### 5. Herramientas para Mejorar la Redacción en Inglés para Desarrolladores
 
 #### Extensiones de VS Code
