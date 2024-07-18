@@ -1,14 +1,14 @@
-## Exercise: Analyze and Correct Sentences for Insurance Terms 📑
+## Ejercicio: Analizar y corregir frases con términos de seguros 📑
 
-### Purpose of Exercise
+### Objetivo del ejercicio
 
-This exercise helps participants understand the correct usage of insurance terminology and improve their grammar and clarity in writing about insurance concepts.
+Este ejercicio ayuda a los participantes a comprender el uso correcto de la terminología de seguros y a mejorar su gramática y claridad al escribir sobre conceptos de seguros.
 
 ---
 
-### Instructions
+### Instrucciones
 
-Read the sentences below, identify any errors, and correct them. Pay attention to the use of insurance terms and ensure that the sentences are both grammatically correct and contextually accurate.
+Leer las frases siguientes, identificar los errores y corregirlos. Prestar atención al uso de términos relacionados con los seguros y asegurarse de que las frases son gramaticalmente correctas y contextualmente precisas.
 
 ---
 
@@ -34,9 +34,9 @@ Read the sentences below, identify any errors, and correct them. Pay attention t
    
 ---
 
-### Corrections Table
+### Tabla de Correcciones
 
-| Sentence Incorrect | Sentence Corrected |
+| Oracion Incorrecta | Oracion Correcta |
 |--------------------|---------------------|
 | The premium is the money that the insured pays every month to have coverage. | The **premium** is the amount of money that the insured pays periodically for coverage. |
 | If you make a claim, you can get the compensation for the policyholder. | If you make a **claim**, you can request compensation from the insurer. |
