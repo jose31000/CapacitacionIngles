@@ -118,6 +118,6 @@ Capacitar a los desarrolladores en el uso efectivo del inglés en el contexto pr
 
 1. **Deepl**
    - Un traductor y corrector de escritura gratuito en línea que puede funcionar desde su propia página web o instalando el software que tiene para Windows 10 o macOS
-   - [Deepl]([https://quillbot.com/](https://www.deepl.com/es/write))
+   - [Deepl](https://www.deepl.com/es/write)
 
 
